@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/paulmach/orb v0.7.1
 	github.com/ringsaturn/xmongo v0.1.3
-	go.mongodb.org/mongo-driver v1.10.1
+	go.mongodb.org/mongo-driver v1.10.2
 )
 
 require (
